@@ -1,2 +1,2 @@
 # MinkowskiDistance
-Clalculanting manually Mincowski distance 
+Calculanting manually Mincowski distance 
